@@ -8,7 +8,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from typing import List, Optional, Dict
 
 # --- КОНФИГУРАЦИЯ ---
-TOKEN = "7963812689:AAGH_wl5Kw9X3dtu1xdXRR7UxOJy9i-s6Ck"
+TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
 
 # --- ЛОГИКА ИГРЫ ---
 
